@@ -5,7 +5,7 @@ class Missions extends React.Component {
   render() {
     return (
       <div data-testid="missions">
-        <Title />
+        <Title headline="Missões" />
       </div>
     );
   }
